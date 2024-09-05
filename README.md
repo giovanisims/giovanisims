@@ -2,7 +2,7 @@
 
 This is mostly going to be populated with stuff I made in uni, so I only make public what I believe isnt made with really stinky code, that's why it's kind of empty.
 
-# [Python The Game](Python-The-Game)
+# [Python The Game](https://github.com/giovanisims/Python-The-Game)
 
 ###### This was made as the final project for CS50P
 
