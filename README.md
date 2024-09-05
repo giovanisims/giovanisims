@@ -4,7 +4,7 @@ This is mostly going to be populated with stuff I made in uni, so I only make pu
 
 # [Python The Game](https://github.com/giovanisims/Python-The-Game)
 
-##### This was made as the final project for CS50P 2024
+##### This was made as a final project for CS50P 2024
 
 This is recreation of the Snake game in python it's got wrap-around edges, relatively random placements for the pieces of meat which has sound effects when eaten and some AI generated Lo-Fi music 
 
