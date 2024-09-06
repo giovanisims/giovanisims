@@ -14,4 +14,4 @@ This is a website made with Kadence WP for a PHD dissertation, it contains guide
 
 # [Foodies](https://github.com/LucasBrisch/Foodies)
 
-This is a college project I made in collaboration with [LucasBrisch](https://github.com/LucasBrisch)
+This is a college project I made in collaboration with [LucasBrisch](https://github.com/LucasBrisch) for a static website, it was my first implementation with HTML and CSS
