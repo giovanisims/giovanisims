@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-This is mostly going to be populated with stuff I made in uni, so I only make public what I believe isnt made with really stinky code, that's why it's kind of empty.
+This is mostly going to be populated with projects and excersises from uni, or from online courses like Edx, so some code might be a bit stinky.
 
 # [Python The Game](https://github.com/giovanisims/Python-The-Game)
 
