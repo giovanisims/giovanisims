@@ -11,3 +11,7 @@ This is recreation of the Snake game in python it's got wrap-around edges, relat
 # [Batuta](https://batuta.pro)
 
 This is a website made with Kadence WP for a PHD dissertation, it contains guidelines for the test that the dissertation revolved around, it also has some useful/interesting information about sound and auditory health.
+
+# [Foodies](https://github.com/LucasBrisch/Foodies)
+
+This is a college project I made in collaboration with [LucasBrisch](https://github.com/LucasBrisch)
