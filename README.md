@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-This is mostly going to be populated with projects and excersises from uni, or from online courses like Edx, so some code might be a bit stinky.
+This is mostly going to be populated with projects and excersises from uni, but some personal projects and experiments are also here
 
 # [Python The Game](https://github.com/giovanisims/Python-The-Game)
 
