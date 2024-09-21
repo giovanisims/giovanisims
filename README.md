@@ -11,3 +11,15 @@ This is recreation of the Snake game in python it's got wrap-around edges, rando
 # [Batuta](https://batuta.pro)
 
 This is a website made in WordPress using the Kadence theme for a PHD dissertation, it contains guidelines for the test that the dissertation revolved around, it also has some useful/interesting information about sound and auditory health.
+
+- Security features:
+  
+  - Brute force attack protection for the login page using fail2ban
+  - Website is also protected against user enumeration
+  - Protection against badbots
+  - Local firewall configuration
+    
+- Programming stack optimization:
+  
+  - Web server (Nginx) optimization
+  - PHP variables otpimization
