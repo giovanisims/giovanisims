@@ -14,12 +14,11 @@ This is a website made in WordPress using the Kadence theme for a PHD dissertati
 
 - Security features:
   
-  - Brute force attack protection for the login page using fail2ban
+  - Brute force attack protection for the login page and protection against badbots using [fail2ban](https://github.com/fail2ban/fail2ban)
   - Website is also protected against user enumeration
-  - Protection against badbots
   - Local firewall configuration
     
 - Programming stack optimization:
   
-  - Web server (Nginx) optimization
+  - Web server [Nginx](https://nginx.org) optimization
   - PHP variables otpimization
