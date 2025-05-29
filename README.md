@@ -22,3 +22,5 @@ This is a website made in WordPress using the Kadence theme for a PHD dissertati
   
   - Web server [Nginx](https://nginx.org) optimization
   - PHP variables otpimization
+
+![](./profile-3d-contrib/profile-green-animate.svg)
