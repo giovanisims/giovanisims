@@ -29,5 +29,3 @@ This system was created as the final project for the Web Development course, int
 
 # [Pong Game](https://github.com/giovanisims/PJBL-POO) 🏐🏓
 Pong Game is a recreation of the classic Pong game developed in __Java__ as part of an __Object-Oriented Programming__ course. It features one-player controls, real-time scoring, and progressively increasing speed to enhance the challenge.
-
-![](./profile-3d-contrib/profile-night-green.svg)
