@@ -3,7 +3,8 @@
 ### Welcome! Here you'll find a collection of my university projects and exercises, as well as some personal projects and coding experiments that I’m passionate about.
 ## 🧠 Languages & Tools
 
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AZ-900" width="150"> 
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" width="150"> 
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AZ-900" width="150"> 
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
