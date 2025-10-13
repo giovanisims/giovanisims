@@ -19,11 +19,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
-## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-simoes/)
-
----
 # [Python The Game](https://github.com/giovanisims/Python-The-Game) 🐍🎮
 
 ##### This was made as a final project for the Python course CS50P 2024, by Edx which is a platform founded by Harvard and MIT
