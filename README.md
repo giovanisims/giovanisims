@@ -9,26 +9,28 @@
 
 <a href="https://www.credly.com/badges/8da8582d-5b1b-49f5-99d4-b2b435368c1b" target="_blank"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer - Associate" width="130"></a>
 <a href="https://www.credly.com/badges/0258ae0d-5486-41c4-b6b8-ebd345be448b" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130"></a>
-<a href="https://www.credly.com/badges/58094476-507c-4221-8f51-939f8a539fe5" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt=" Azure Fundamentals AZ-900" width="130"></a> 
+<a href="https://www.credly.com/badges/58094476-507c-4221-8f51-939f8a539fe5" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt=" Azure Fundamentals AZ-900" width="130"></a>
 
 ---
 
 ### 🧠 Languages, Frameworks & Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?logo=csharp&logoColor=white)](#)
+[![.NET](https://custom-icon-badges.demolab.com/badge/.NET-512BD4?logo=dotnet&logoColor=white)](#)
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Java](https://custom-icon-badges.demolab.com/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
+[![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
+[![React](https://custom-icon-badges.demolab.com/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+[![FastAPI](https://custom-icon-badges.demolab.com/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-1572B6?logo=mysql&logoColor=white)](#)
+[![MariaDB](https://custom-icon-badges.demolab.com/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 
 ---
 
