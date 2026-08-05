@@ -1,62 +1,64 @@
-## Hi there! My name is Giovani 👋
+# Hi there! I'm Giovani 👋
 
-### Welcome! Here you'll find a collection of my university projects and exercises, as well as some personal projects and coding experiments that I’m passionate about.
-## 🧠 Languages & Tools
-
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AZ-900" width="150"> <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AZ-900" width="150">
-
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" width="150"> 
+**Software Engineer** specializing in back-end architectures, cloud systems, and web technologies. Currently working at **Volvo** and pursuing a B.S. in Information Systems at **PUCPR**.
 
 ---
+
+### 📜 Certifications
+
+
+<a href="https://www.credly.com/badges/8da8582d-5b1b-49f5-99d4-b2b435368c1b" target="_blank"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer - Associate" width="130"></a>
+<a href="https://www.credly.com/badges/0258ae0d-5486-41c4-b6b8-ebd345be448b" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130"></a>
+<a href="https://www.credly.com/badges/58094476-507c-4221-8f51-939f8a539fe5" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt=" Azure Fundamentals AZ-900" width="130"></a> 
+
+---
+
+### 🧠 Languages, Frameworks & Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
-![MariaDB](https://img.shields.io/badge/MariaDB-1572B6?style=for-the-badge&logo=MariaDB&logoColor=white&logoSize=auto)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
-# [Python The Game](https://github.com/giovanisims/Python-The-Game) 🐍🎮
+### 📌 Featured Projects
 
-##### This was made as a final project for the Python course CS50P 2024, by Edx which is a platform founded by Harvard and MIT
+### 💳 [ClariFi](https://github.com/ClariFi-finances/ClariFi)
+Full-stack personal finance application with a **React** front-end and a **.NET** microservices back-end. 
+* Integrated secure authentication using **AWS Cognito**.
+* Utilizes **PostgreSQL** for transaction data persistence and analytical processing.
 
-This game is a recreation of the classic Snake game in python it's got wrap-around edges, random placements for the pieces of meat, and sound effects when you eat a piece of meat, with some AI generated Lo-Fi music 
+### 📣 [EchoBox](https://github.com/echobox-team/EchoBox)
+Full-stack feedback management platform built with **React.js**, **Node.js (Express)**, and **PostgreSQL**.
+* Features JWT/OAuth authentication, role-based admin dashboard, customizable visibility, and notifications.
+* Includes an **AWS** dev deployment configuration and an active migration path to **Java**.
 
----
-# [Batuta](https://batuta.pro) 👂🩺
+### 🐍 [SysCall](https://github.com/SysCall-project/SysCall)
+Full-stack B2B/B2C tech support platform built with **Python (FastAPI)**, **Jinja2**, and **MariaDB**.
+* Connects service technicians with clients via a high-performance RESTful client-server architecture.
 
-**Batuta** is a website made in WordPress using the Kadence theme for a PHD dissertation, it contains guidelines for the test that the dissertation revolved around, it also has some useful/interesting information about sound and auditory health.
+### 🕹️ [Dracula Survivors](https://github.com/Dracula-survivors/gamejam.github.io)
+Browser-based *bullet heaven* game developed during a college GameJam using **JavaScript** and the **Canvas API**.
+* Features real-time collision detection algorithms and optimized game loop state management.
 
-- Security features:
-  
-  - Brute force attack protection for the login page and protection against badbots using [fail2ban](https://github.com/fail2ban/fail2ban)
-  - Website is also protected against user enumeration
-  - Local firewall configuration
-    
-- Programming stack optimization:
-  
-  - Web server [Nginx](https://nginx.org) optimization
-  - PHP variables otpimization
-
----
-# [Alt+F4](https://github.com/giovanisims/Alt-F4) 💻📱
-**Alt+F4** is an e-commerce project developed with HTML, CSS, JavaScript, Node.js, and MySQL. It includes features such as product CRUD, search system, and shopping cart.
-This system was created as the final project for the Web Development course, integrating front-end, back-end, and database to provide a complete experience.
+### 👂 [Batuta.pro](https://batuta.pro)
+Web project built for a PhD dissertation containing clinical test guidelines and psychoacoustic data.
+* Hardened server architecture using **Nginx** tuning, PHP performance optimizations, local firewalls, and **Fail2Ban** protection against brute-force attacks and bot scrapers.
 
 ---
-# [Pong Game](https://github.com/giovanisims/PJBL-POO) 🏐🏓
-**Pong Game** is a recreation of the classic Pong game developed in __Java__ as part of an __Object-Oriented Programming__ course. It features one-player controls, real-time scoring, and progressively increasing speed to enhance the challenge.
 
----
-# [SysCall](https://github.com/giovanisims/SysCall) 🐍💻 
-**SysCall** is a full-stack web application designed to be used as a middle man between users who need tech support and technicians looking for customers, with support for either B2B or B2C implementations, built with a **Python (FastAPI)** backend and a classic **HTML, CSS, and JavaScript** front-end. It demonstrates a complete client-server architecture, using **Jinja2** for templating and a **MariaDB** database for persistence.
-
-This project was developed as a final assignment for the **Experiência Criativa** course 🎓. It showcases how modern web technologies come together to create a functional application with both a user-facing interface and server-side logic. 🚀
-
----
+### 📫 Connect with Me
+- **Website:** [batuta.pro](https://batuta.pro)
+- **LinkedIn:** [linkedin.com/in/giovani-simoes](https://linkedin.com/in/giovani-simoes)
+- **Email:** [giovani@simoes.pro](mailto:giovani@simoes.pro)
