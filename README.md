@@ -62,4 +62,3 @@ Web project built for a PhD dissertation containing clinical test guidelines and
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/giovani-simoes](https://linkedin.com/in/giovani-simoes)
-- **Email:** [giovani@simoes.pro](mailto:giovani@simoes.pro)
